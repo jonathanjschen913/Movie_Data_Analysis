@@ -13,4 +13,4 @@ This is my Google Data Analytics Certificate Capstone Project.
  - Inside the folder of each phase, there will be an overview file that describes what is done in this phase.
 
 Status: Not Completed
-^The above status will be changed to "Completed" when the complete project is uploaded to this repo.
+The above status will be changed to "Completed" when the complete project is uploaded to this repo.
