@@ -1,1 +1,16 @@
 This is the overview of the prepare phase of the project.
+
+Here are all sources that were used in this project:
+https://datasets.imdbws.com/ (Official imdb data)
+https://developer.imdb.com/non-commercial-datasets/#namebasicstsvgz (Official description of imdb data)
+https://www.kaggle.com/datasets/danielgrijalvas/movies (Usability 10.0 Kaggle dataset)
+https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/ (CPI data used to adjust for inflation)
+
+Data integrity:
+In this case, the official IMDB data is treated as the standard of the official movie data;
+The Kaggle data that has a usability of 10.0 with a CC0 license has integrity and is for public use;
+And the CPI data is provided by the U.S. Department of Labor Bureau of Labor Statistic.
+
+Data volume:
+The IMDB data records much more than enough data, and the Kaggle dataset contains over 7000 movies.
+The CPI data is updated frequently and contained all information up to the point of this project.
