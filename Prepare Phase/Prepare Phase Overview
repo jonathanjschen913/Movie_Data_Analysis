@@ -1,7 +1,7 @@
 This is the overview of the prepare phase of the project.
 
 Here are all sources that were used in this project:
-https://datasets.imdbws.com/ (Official imdb data)
+https://datasets.imdbws.com/ (Official imdb data. We will only be using some of these; more details in the process phase)
 https://developer.imdb.com/non-commercial-datasets/#namebasicstsvgz (Official description of imdb data)
 https://www.kaggle.com/datasets/danielgrijalvas/movies (Usability 10.0 Kaggle dataset)
 https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/ (CPI data used to adjust for inflation)
