@@ -6,4 +6,18 @@ For data entries with missing data points, we will be removing them since there 
  - revenue
  - rating
 
-All data files used will be uploaded into this repo.
+Here is a link to the IMDB files used in this project:
+https://drive.google.com/drive/folders/1sxQlAcQUuwUV3LWqMpvgdp_6i1Jv1leB?usp=sharing
+
+Alternatively, you can reproduce the same results by:
+ 1. Go to IMDB's official website, https://datasets.imdbws.com/
+ 2. Download the following:
+    - title.ratings.tsv.gz
+    - title.basics.tsv.gz
+ 3. Use a platform of your choice to retrieve data that is only up to July 5th, 2023.
+
+Here is a link to the Kaggle Dataset:
+https://www.kaggle.com/datasets/danielgrijalvas/movies
+
+And here is a link to the CPI data:
+https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/
