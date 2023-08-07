@@ -1,1 +1,18 @@
 This is the overview of the ask phase of the project
+
+In this phase, we want to understand the purpose of our project.
+In particular, the goal of this project is to find what are the best predictors of success for a movie.
+This leads to a couple of questions:
+ - How will success be defined?
+ - What variables do we consider as predictors?
+
+The intuition:
+ - We will define success using metrics that are mostly profit based.
+ - We will consider variables such as budget, company, director, etc. for predictors.
+ - We will NOT be considering variables such as the year released or "competition from other movies" as predictors since 
+  these variables are much more difficult to control realistically.
+
+Stakeholders:
+ - Investors
+ - Movie directors
+ - Film distributors
