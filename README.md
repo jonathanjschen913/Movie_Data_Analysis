@@ -11,6 +11,7 @@ This is Jonathan Chen's Google Data Analytics Certificate Capstone Project.
 **Order of phases:**
  - The order of the phases is: Ask -> Prepare -> Process -> Analyze -> Share -> Act
  - Inside the folder of each phase, there will be an overview file that describes what is done in this phase.
+ - Relevant source files and code files will be found inside each folder.
 
 Status: Not Completed
  - The above status will be changed to "Completed" when the complete project is uploaded to this repo.
