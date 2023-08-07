@@ -1,6 +1,6 @@
 # Movie_Data_Analysis
-This is my Google Data Analytics Certificate Capstone Project.
- - Concepts used in this project are mostly from but not limited to the Google Data Analytics Certificate.
+This is Jonathan Chen's Google Data Analytics Certificate Capstone Project.
+ - Concepts used in this project are mostly from but not limited to the Google Data Analytics Certificate Program on Coursera.
  - This project uses:
     - Kaggle
     - Google BigQuery
