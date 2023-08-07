@@ -1,1 +1,9 @@
 This is the overview of the process phase of the project.
+
+In this phase of the project, we want to process our source data files so that we are ready to perform analysis.
+For data entries with missing data points, we will be removing them since there is no logical default value for fields such as:
+ - budget
+ - revenue
+ - rating
+
+All data files used will be uploaded into this repo.
