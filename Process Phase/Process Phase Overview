@@ -21,3 +21,5 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 And here is a link to the CPI data:
 https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/
+
+First, we will upload the IMDB files onto the Google Cloud storage since we want to use SQL with Google Big Query to process and clean data.
